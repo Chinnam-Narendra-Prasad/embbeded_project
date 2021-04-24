@@ -1,7 +1,7 @@
 /**
  * @file activity1.c
  * @author Ch.Narendra Prasad
- * @brief Activity one of embedded project
+ * @brief Activity1 of embedded project
  * @version 0.1
  * @date 2021-04-24
  *
