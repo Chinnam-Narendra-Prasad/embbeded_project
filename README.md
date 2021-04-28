@@ -12,6 +12,6 @@ Temperature Sensor
 |:--:|:--:|
 |![ON](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/blob/main/simulation/temp%20ON.png)|![OFF](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/blob/main/simulation/temp%20OFF.png)|
 
-|Cppcheck|
-|:--:|
-[![Cppcheck-actions](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/actions/workflows/cppcheck.yml)
+|Cppcheck|CodeQuality|
+|:--:|:--:|
+|[![Cppcheck-actions](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/actions/workflows/cppcheck.yml)|[![Cppcheck](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/actions/workflows/CodeQuality.yml)|
