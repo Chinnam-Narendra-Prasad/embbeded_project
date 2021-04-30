@@ -2,7 +2,7 @@
 
 |ON|OFF|
 |:--:|:--:|
-|![ON]()|![OFF]()|
+|![ON](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/blob/main/simulation/Simulation%20ON.png)|![OFF](https://github.com/Chinnam-Narendra-Prasad/embbeded_project/blob/main/simulation/Simulation%20OFF.png)|
 
 |Cppcheck|Compile-Linux|Codacy Badge|
 |:--:|:--:|:--:|
